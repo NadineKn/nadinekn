@@ -2,7 +2,9 @@
 
 I’m currently learning various aspects of **Data Science**, including **Machine Learning**, **Deep Learning**, and **Business Intelligence**. My goal is to apply my skills to real-world problems and contribute to innovative projects. 
 
-Currently, I’m seeking an **internship** (LIA praktikplats) for the period **November 2026 - April 2027** to further develop my expertise in data science and machine learning.
+Currently, I’m seeking an **internship** (LIA praktikplats) for the period **November 2026 - April 2027** where I can apply my knowledge and continue to grow as a data scientist.
+
+If you’re interested in collaborating or have any opportunities, feel free to reach out. I’d love to connect!
 
 ## 🌱 What I'm Learning:
 - **Mathematics & Statistics** (Foundations for data analysis and machine learning)
@@ -30,11 +32,6 @@ Currently, I’m seeking an **internship** (LIA praktikplats) for the period **N
 - [LinkedIn](https://www.linkedin.com/in/nadine-knoop/)
 
 ---
-
-### About Me:
-I’m currently studying **Data Science** at EC Utbildning, where I’m developing a solid foundation in statistics, machine learning, and data visualization. I also have a strong academic background in **Economics**, which has given me valuable insights into economic modeling and data-driven decision-making.
-
-I’m passionate about learning new techniques and tools to tackle complex problems with data. I’m actively seeking a **LIA internship** from **November 2026 - April 2027**, where I can apply my knowledge and continue to grow as a data scientist.
 
 If you’re interested in collaborating or have any opportunities, feel free to reach out. I’d love to connect!
 
