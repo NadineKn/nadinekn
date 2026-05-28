@@ -28,6 +28,7 @@ If you’re interested in collaborating or have any opportunities, feel free to 
 - [Project 2: SQL](https://github.com/NadineKn/SQL_AdventureWorks)
 - [Project 3: Machine Learning](https://github.com/NadineKn/Machine_Learning)
 - [Project 4: R Programming](https://github.com/NadineKn/R_Programming)
+- [Project 5: Deep Learning](https://github.com/NadineKn/Deep_Learning)
 
 ## 📫 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/nadine-knoop/)
